@@ -1,4 +1,4 @@
-# Blind-Face-Restoration-Using GFPGAN(Generative Facial Prior - Generative Style Gan)
+# Blind-Face-Restoration-Using GFPGAN(Generative Facial Prior - Generator Adversial Network)
 Blind face restoration aims at recovering high-quality
 faces from the low-quality counterparts suffering from unknown degradation, such as low-resolution,
 noise , blur, compression artifacts , etc.
